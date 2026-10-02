@@ -10,6 +10,7 @@
 4. Дождитесь синхронизации Gradle.
 
 ![Проект в Android Studio](images/android-studio.png)
+<img width="264" height="242" alt="photo_5330338303544335734_m" src="https://github.com/user-attachments/assets/645374de-11fd-400e-99cc-0b7df53e21d3" />
 
 ## Структура проекта
 
