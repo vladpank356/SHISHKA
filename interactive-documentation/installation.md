@@ -40,4 +40,5 @@
   "apiUrl": "https://api.shishka.local",
   "timeout": 30
 }
+```
 [← Вернуться на главную страницу](index.md)
