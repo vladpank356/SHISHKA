@@ -23,3 +23,5 @@ curl -X POST http://localhost:8080/api/bookings \
   -H "Content-Type: application/json" \
   -d '{"roomId": 101, "checkIn": "2026-10-01", "checkOut": "2026-10-05"}'
 ```
+
+[← Вернуться на главную страницу](index.md)
