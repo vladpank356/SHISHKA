@@ -48,8 +48,6 @@
 
 <img width="317" height="679" alt="image" src="https://github.com/user-attachments/assets/e6e1d2b1-24c0-45fc-a0dd-e91620a153e3" />
 
-**Ожидаемый результат:** сессия завершается, токен и User ID удаляются из SessionManager. Данные сохраняются в базе данных автоматически.
-
 ---
 
 [← Вернуться на главную страницу](index.md)
